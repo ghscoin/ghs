@@ -6,7 +6,9 @@ Copyright (c) 2009-2013 Bitcoin Developers Copyright (c) 2011-2013 GHS coin Deve
 
 What is GHS coin?
 
-GHS coin is official https://GHS.io cryptocurrency exchange coin
+GHS coin is official https://GHS.io cryptocurrency exchange coin.
+
+GHS official IPO activated and available until: 10.31.2014 on the https://ghsipo.com website
 
 Specifications:
 
@@ -21,6 +23,8 @@ For more information, as well as an immediately useable, binary version of the G
 Windows wallet: https://mega.co.nz/#!ewAxgTBY!AZUqp1lubUWkXDkl0AuWSamYO_hk3O__EGwFGvZppQY
 
 MAC wallet: https://mega.co.nz/#!iwZjVbgJ!ovlJKkDyJ6houSvTcCgRvQWn_rxNJ7oYBDfBBAyq17o
+
+GHS coin Block Explorer: http://blockexperts.com/ghs
 
 License
 
